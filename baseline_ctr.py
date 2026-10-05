@@ -81,3 +81,6 @@ def main() -> None:
     print("Second replay:", replayed_twice)
     print("Receiver processed count:", len(receiver.processed))
     print("The two replays were both processed because this receiver has no replay defense.")
+
+if __name__ == "__main__":
+    main()
