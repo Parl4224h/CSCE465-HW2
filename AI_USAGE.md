@@ -1,0 +1,1 @@
+No AI was used in this assignment beyond any autocorrect features in Microsoft Word, and line autocompletion in PyCharm
